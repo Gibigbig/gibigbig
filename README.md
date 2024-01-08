@@ -1,12 +1,20 @@
 # About Me:
 🔭 I’m currently working on
 
-<ul><li> https://shoob.gg</li><li> https://harbor.gg</li><li> https://warriskids.com</li><li> The Veridian Isles</li><li> https://codertt.com</li><li> https://lumpandbump.com
+<ul>
+  <li> https://shoob.gg</li>
+  <li> https://harbor.gg</li>
+  <li> https://warriskids.com</li>
+  <li> The Veridian Isles</li>
+  <li> https://codertt.com</li>
+  <li> https://lumpandbump.com</li>
+</ul>
                                                                                                                                                                                 
-👯 I’m looking to collaborate on</li><li> Shoob</li><li> The Veridian Isles
-  
-  </li>
-  </ul>
+👯 I’m looking to collaborate on
+<ul>
+  <li>Shoob</li>
+  <li> The Veridian Isles</li>
+</ul>
 
 
 
