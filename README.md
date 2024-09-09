@@ -5,7 +5,6 @@
   <li> https://shoob.gg</li>
   <li> https://harbor.gg</li>
   <li> https://warriskids.com</li>
-  <li> <a href="https://veridian.gg" target="_blank">The Veridian Isles</a></li>
   <li> https://codertt.com</li>
   <li> https://lumpandbump.com</li>
 </ul>
